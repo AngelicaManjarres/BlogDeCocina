@@ -1,0 +1,16 @@
+.main {
+  font-family: helvetica, verdana;
+}
+img {
+  max-width: 100%;
+}
+.padding {
+  padding: 15px;
+}
+.borde {
+  border: 1px solid black;
+}
+.transparente {
+  background: rgba(203, 211, 237, 0.8);
+
+}
